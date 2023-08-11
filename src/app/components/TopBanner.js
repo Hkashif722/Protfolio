@@ -1,4 +1,4 @@
-import Image from "next/image"
+// import Image from "next/image"
 
 export default function TopBanner() {
    
@@ -16,14 +16,14 @@ export default function TopBanner() {
             
         </div>
         <div>
-            <Image 
+            {/* <Image 
             className="p-5 object-contain mx-auto"
             src="/Subject.png"
             width={130}
             height={100}
             quality={100}  
             alt="Picture of the author"
-            />
+            /> */}
         </div>
         
     </div>

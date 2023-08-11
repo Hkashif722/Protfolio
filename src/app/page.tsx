@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import NavBar from './components/NavBar'
 import TopBanner from './components/TopBanner'
 import Content from './components/Content'
